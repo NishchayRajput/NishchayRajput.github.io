@@ -12,7 +12,7 @@ interface ProjectCardProps {
   githubUrl?: string;
   slug?: string;
   imageSrc?: string; // Kept for backward compatibility but won't be used
-  colorScheme?: "blue" | "purple" | "green" | "orange" | "pink" | "gradient";
+  colorScheme?: "blue" | "purple" | "green" | "orange" | "pink" | "gradient" | "red" | "cyan";
 }
 
 // Function to get an icon based on project tags
