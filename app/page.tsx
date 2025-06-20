@@ -5,7 +5,7 @@ import { ProjectCard } from "@/components/project-card";
 import { SkillCard } from "@/components/skill-components";
 import { TimelineItem } from "@/components/timeline";
 import { ContactForm } from "@/components/contact-form";
-import { ArrowDown, Code, Database, FileCode, Mail } from "lucide-react";
+import { ArrowDown, Code,  Mail } from "lucide-react";
 import Image from "next/image";
 
 export default function Home() {
