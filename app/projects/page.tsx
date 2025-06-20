@@ -15,24 +15,40 @@ export default function ProjectsPage() {
           title="Feedback System"
           description="A digital feedback portal developed using Next.js to streamline anonymous student feedback and provide real-time analytics for faculty."
           tags={["Next.js", "Tailwind", "Node.js", "MongoDB"]}
-          githubUrl="https://github.com/yourusername/feedback-system"
+          githubUrl="https://github.com/NishchayRajput?tab=repositories&q=CQI"
           colorScheme="blue"
         />
+
+
+        <ProjectCard
+          title="BAKSHEESH Cipher"
+          description="A lightweight block cipher designed over GIFT-128, offering improved hardware efficiency with 35 rounds (vs 40) while maintaining security against classical cryptanalytic methods."
+          tags={["Cryptography", "Security", "Block Cipher", "Research"]}
+          colorScheme="red"
+          demoUrl="/files/Crypto_Term_Paper (1).pdf"
+        />
+
 
         <ProjectCard
           title="SAR Image Colorization"
           description="A deep learning model for colorizing grayscale SAR images to enhance interpretation in remote sensing applications."
-          tags={["Python", "Deep Learning",  "PyTorch"]}
-          githubUrl="https://github.com/yourusername/sar-colorization"
+          tags={["Python", "Deep Learning", "PyTorch"]}
+          githubUrl="https://github.com/nishant9083/ColorSAR"
           colorScheme="purple"
         />
-
+        <ProjectCard
+          title="Stack Overflow Network Analysis"
+          description="An analytical exploration of Stack Overflow tag relationships using graph theory and igraph library to visualize technology clusters and co-occurrence patterns."
+          tags={["Data Analysis", "Network Theory", "igraph", "Python"]}
+          colorScheme="cyan"
+          demoUrl="/files/Network_Science_report (2).pdf"
+        />
         <ProjectCard
           title="Chcommune Blog Platform"
           description="A full-stack blog platform with admin panel, Google OAuth authentication, and scalable database infrastructure."
           tags={["React", "Node.js", "Express.js", "MongoDB"]}
-          githubUrl="https://github.com/yourusername/chcommune"
-          demoUrl="https://chcommune-demo.com"
+          githubUrl="https://github.com/NishchayRajput/CollabHous"
+          demoUrl="https://chcommune.com"
           colorScheme="green"
         />
 
@@ -40,7 +56,7 @@ export default function ProjectsPage() {
           title="Smart Payment System"
           description="A campus payment system for over 1200 students using ID cards, with daily mess payment tracking and transparent transactions."
           tags={["Node.js", "MongoDB", "ID Auth", "Campus Infra"]}
-          githubUrl="https://github.com/yourusername/smart-payment-system"
+          // githubUrl="https://github.com/nishchayrajput/smart-payment-system"
           colorScheme="orange"
         />
 
