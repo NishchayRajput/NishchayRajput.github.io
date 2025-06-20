@@ -135,12 +135,17 @@ export function Footer() {
             <span className="absolute -left-3 top-1/2 w-2 h-2 rounded-full bg-primary transform -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-opacity"></span>
             © {new Date().getFullYear()} Nishchay Rajput. All rights reserved.
           </p>
-          <p className="text-xs text-muted-foreground">
-            <span>Designed & Developed with ❤️ by </span>
-            <a href="https://github.com/nishchayrajput" target="_blank" rel="noreferrer" className="hover:text-primary hover:underline">
-              Nishchay Rajput
-            </a>
-          </p>
+          <div className="text-xs text-muted-foreground text-center sm:text-right">
+            <p>
+              <span>Designed & Developed with ❤️ by </span>
+              <a href="https://github.com/nishchayrajput" target="_blank" rel="noreferrer" className="hover:text-primary hover:underline">
+                Nishchay Rajput
+              </a>
+            </p>
+            <p className="mt-1">
+              Icons provided by <a href="https://icons8.com" target="_blank" rel="noreferrer" className="hover:text-primary hover:underline">ICONS8</a>
+            </p>
+          </div>
         </div>
       </div>
     </footer>
