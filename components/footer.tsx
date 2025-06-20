@@ -109,11 +109,11 @@ export function Footer() {
             </h4>
             <ul className="space-y-3 text-sm">
               <li className="text-muted-foreground hover:text-foreground transition-colors">
-                <a href="mailto:nishchayr@iitbhilai.ac.in" className="flex items-center group">
+                <a href="mailto:nishchay202@gmail.com" className="flex items-center group">
                   <span className="mr-3 flex items-center justify-center w-8 h-8 rounded-full bg-primary/10 text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300">
                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
                   </span>
-                  <span className="group-hover:translate-x-1 transition-transform duration-300">nishchayr@iitbhilai.ac.in</span>
+                  <span className="group-hover:translate-x-1 transition-transform duration-300">nishchay202@gmail.com</span>
                 </a>
               </li>
               <li className="text-muted-foreground hover:text-foreground transition-colors">

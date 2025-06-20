@@ -29,7 +29,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <p className="text-muted-foreground">nishchayr@iitbhilai.ac.in</p>
+                  <p className="text-muted-foreground">nishchay202@gmail.com</p>
                 </div>
               </CardContent>
             </Card>

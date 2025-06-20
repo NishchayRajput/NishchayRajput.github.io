@@ -28,7 +28,7 @@ export default function Home() {
 
               <p className="text-xl text-muted-foreground mb-8 max-w-lg leading-relaxed">
                 Passionate about creating elegant, innovative solutions through code.
-                Specializing in <span className="text-primary font-medium">full-stack development</span>, <span className="text-primary font-medium">AI/ML</span>, and <span className="text-primary font-medium">cutting-edge research</span> at IIT Bhilai.
+                Specializing in <span className="text-primary font-medium">full-stack development</span>, <span className="text-primary font-medium"></span> and <span className="text-primary font-medium">Open Source enthusiast</span> at IIT Bhilai.
               </p>
 
               <div className="flex flex-wrap gap-4">
