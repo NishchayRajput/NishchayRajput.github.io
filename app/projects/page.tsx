@@ -28,6 +28,14 @@ export default function ProjectsPage() {
           demoUrl="/files/Crypto_Term_Paper (1).pdf"
         />
 
+        <ProjectCard
+          title="PsychoPath Flutter App"
+          description="A cross-platform mental wellness application developed with Flutter. PyschoPaths provides users with daily tips, guided relaxation techniques, and access to community support resources to help manage stress and improve emotional well-being. The app features a curated library of meditation exercises, mindfulness practices, and helpline contacts, making mental health support accessible and practical for a broad audience."
+          tags={["Flutter", "Dart", "Mental Health", "Mobile App"]}
+          colorScheme="orange"
+          githubUrl="https://github.com/NishchayRajput/PyschoPaths"
+        />
+
 
         <ProjectCard
           title="SAR Image Colorization"
