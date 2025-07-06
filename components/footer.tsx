@@ -95,7 +95,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="/files/resume-nishchay.pdf" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                <a href="/cv.pdf" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                   Resume / CV
                 </a>
               </li>
